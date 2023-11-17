@@ -2,7 +2,7 @@
 <h1 align="center">Trabalho Linguagem de Programação 1 - Professor André Bessa</h1>
 
 <!-- Descrição -->
-<p align="center">Este é o trabalho de Linguagem de Programação 1, no 1º Bimestre do 4º Semestre, a qual foi ministrada pelo <a href="https://github.com/bessax">Professor André Bessa</a></p>
+<p align="center">Este é o trabalho de Linguagem de Programação 1, no 2º Bimestre do 4º Semestre, a qual foi ministrada pelo <a href="https://github.com/bessax">Professor André Bessa</a></p>
 
 <p align="center">
   <img src="https://github.com/gPagio/4s-1b-trabalho-lp1/blob/main/docs/banner.png?raw=true" alt="Cadastrando">
