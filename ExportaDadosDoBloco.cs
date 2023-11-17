@@ -1,13 +1,11 @@
-﻿//using System.Reflection;
-
-namespace _4s_1b_trabalho_lp1;
+﻿namespace _4s_1b_trabalho_lp1;
 
 public class ExportaDadosDoBloco
 {
     public static void SalvarBlocoEmArquivoTxt (Bloco bloco)
     {
         string diretorioDoExecutavel = Directory.GetCurrentDirectory();
-        string diretorioDoProjeto = Directory.GetParent(diretorioDoExecutavel).Parent.Parent.FullName;
+        string diretorioDoProjeto = Directory.GetParent(diretorioDoExecutavel)!.Parent!.Parent!.FullName;
        
         if (!Directory.Exists(Path.Combine(diretorioDoProjeto, "txt")))
         {

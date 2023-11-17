@@ -1,4 +1,4 @@
-﻿namespace _4s_1b_trabalho_lp1.ExcecoesCustomizadas;
+﻿namespace _4s_1b_trabalho_lp1.exceptions;
 
 public class CodigoNaoExisteException : Exception
 {

@@ -1,4 +1,4 @@
-﻿using _4s_1b_trabalho_lp1.ExcecoesCustomizadas;
+﻿using _4s_1b_trabalho_lp1.exceptions;
 
 namespace _4s_1b_trabalho_lp1;
 

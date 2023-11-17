@@ -1,5 +1,3 @@
-using System.Numerics;
-
 public class Bloco {
     private string codigoDoBloco;   
     private int numero;            
