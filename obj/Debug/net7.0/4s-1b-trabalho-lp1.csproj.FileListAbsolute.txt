@@ -1,0 +1,100 @@
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.deps.json
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.runtimeconfig.json
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.dll
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.pdb
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.csproj.AssemblyReference.cache
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.AssemblyInfoInputs.cache
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.AssemblyInfo.cs
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.csproj.CoreCompileInputs.cache
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.dll
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/refint/4s-1b-trabalho-lp1.dll
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.pdb
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.genruntimeconfig.cache
+/home/gustavo-haddad/Downloads/4s-1b-trabalho-lp1/obj/Debug/net7.0/ref/4s-1b-trabalho-lp1.dll
+C:/Git Clones/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.exe
+C:/Git Clones/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.deps.json
+C:/Git Clones/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.runtimeconfig.json
+C:/Git Clones/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.dll
+C:/Git Clones/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.pdb
+C:/Git Clones/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Git Clones/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.AssemblyInfoInputs.cache
+C:/Git Clones/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.AssemblyInfo.cs
+C:/Git Clones/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.csproj.CoreCompileInputs.cache
+C:/Git Clones/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.dll
+C:/Git Clones/4s-1b-trabalho-lp1/obj/Debug/net7.0/refint/4s-1b-trabalho-lp1.dll
+C:/Git Clones/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.pdb
+C:/Git Clones/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.genruntimeconfig.cache
+C:/Git Clones/4s-1b-trabalho-lp1/obj/Debug/net7.0/ref/4s-1b-trabalho-lp1.dll
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.deps.json
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.runtimeconfig.json
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.dll
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/bin/Debug/net7.0/4s-1b-trabalho-lp1.pdb
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.csproj.AssemblyReference.cache
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.AssemblyInfoInputs.cache
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.AssemblyInfo.cs
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.csproj.CoreCompileInputs.cache
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.dll
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/refint/4s-1b-trabalho-lp1.dll
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.pdb
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/4s-1b-trabalho-lp1.genruntimeconfig.cache
+/home/guilherme/Documentos/GitHub/Faculdade/Trabalhos/4s-1b-trabalho-lp1/obj/Debug/net7.0/ref/4s-1b-trabalho-lp1.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\obj\Debug\net7.0\refint\4s-1b-trabalho-lp1.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Trabalho Bessa\4s-1b-trabalho-lp1\obj\Debug\net7.0\ref\4s-1b-trabalho-lp1.dll
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.dll
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\obj\Debug\net7.0\refint\4s-1b-trabalho-lp1.dll
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfoInputs.cache
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfo.cs
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.csproj.CoreCompileInputs.cache
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.exe
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.deps.json
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.runtimeconfig.json
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.dll
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.genruntimeconfig.cache
+C:\Users\lab-cachoeiro\Desktop\clone\4s-1b-trabalho-lp1\obj\Debug\net7.0\ref\4s-1b-trabalho-lp1.dll
+F:\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.exe
+F:\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.deps.json
+F:\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.runtimeconfig.json
+F:\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.dll
+F:\4s-1b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+F:\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfoInputs.cache
+F:\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfo.cs
+F:\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.csproj.CoreCompileInputs.cache
+F:\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.dll
+F:\4s-1b-trabalho-lp1\obj\Debug\net7.0\refint\4s-1b-trabalho-lp1.dll
+F:\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+F:\4s-1b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.genruntimeconfig.cache
+F:\4s-1b-trabalho-lp1\obj\Debug\net7.0\ref\4s-1b-trabalho-lp1.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\bin\Debug\net7.0\4s-1b-trabalho-lp1.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\bin\Debug\net7.0\4s-1b-trabalho-lp1.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\bin\Debug\net7.0\4s-1b-trabalho-lp1.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\bin\Debug\net7.0\4s-1b-trabalho-lp1.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\bin\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\4s-1b-trabalho-lp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\4s-1b-trabalho-lp1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\4s-1b-trabalho-lp1.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\refint\4s-1b-trabalho-lp1.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\4s-1b-trabalho-lp1.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\ref\4s-1b-trabalho-lp1.dll
