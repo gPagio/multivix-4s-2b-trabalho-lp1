@@ -15,6 +15,20 @@ Esse é um sistema de cadastro de cadastro de blocos, idealizado em cima de empr
   <img src="https://github.com/gPagio/4s-1b-trabalho-lp1/blob/main/docs/menu.png?raw=true" alt="Menu">
 </p>
 
+# Como Executar o Programa
+
+
+Dentro da pasta do projeto, entre no diretório abaixo e execute o arquivo **`4s-1b-trabalho-lp1.exe`**:
+``````
+multivix-4s-2b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.exe
+``````
+
+> [!NOTE]
+> Tal método de execução é recomendado pois o comando **`dotnet run`** não apresentou um funcionamento estável.
+
+> [!IMPORTANT]
+> Este método de execução vale apenas para o sistema operacional Windows, pois para o correto funcionamento da função de escrever o bloco recém cadastrado no `.txt` a execução deve ser por meio do arquivo `.exe`. Procuramos uma solução para a situação mencionada, porém devido ao prazo para entrega do trabalho recomendamos a execução aqui neste arquivo documentada.
+
 ## 1 - Cadastrar Bloco
 Essa opção do sistema recebe os dados do bloco a serem cadastrados para para posteriormente serem processados de acordo com a necessidade do usuario.
 <p align="center">
@@ -22,7 +36,10 @@ Essa opção do sistema recebe os dados do bloco a serem cadastrados para para p
 </p>
 
 ## 2 - Listar Blocos
-Essa opção do sistema lista todos os blocos cadastrados no sistema. Caso não exista nenhum bloco cadastrado o sistema informa que não existem blocos cadastrados e retorna ao menu principal para escolher uma nova opção.
+Essa opção do sistema lista todos os blocos cadastrados no sistema. Caso não exista nenhum bloco cadastrado o sistema informa que não existem blocos cadastrados e retorna ao menu principal para escolher uma nova opção. Ao final do cadastro do primeiro bloco um arquivo `.txt` é criado no diretório abaixo com cada bloco recém cadastrado, onde o mesmo é usado para guardar os demais blocos cadastrados em sequencia, funcionando como uma lista.
+``````
+multivix-4s-2b-trabalho-lp1\txt\blocos.txt
+``````
 <p align="center">
   <img src="https://github.com/gPagio/4s-1b-trabalho-lp1/blob/main/docs/listarBlocos.png?raw=true" alt="Listando Todos">
 </p>
@@ -40,3 +57,15 @@ Essa opção do sistema lista todos os blocos que vieram da pedreira informada p
   <img src="https://github.com/gPagio/4s-1b-trabalho-lp1/blob/main/docs/buscar%E1%B9%94orPedreira.png?raw=true" alt="Listar por Pedreira">
   <img src="https://github.com/gPagio/4s-1b-trabalho-lp1/blob/main/docs/listarComParametro.png?raw=true" alt="Listando por Pedreira">
 </p>
+
+# Exceções Tratadas
+
+Adicionamos algumas validações contra exceções do programa, segue uma lista abaixo:
+
+- **CodigoNaoExisteException:** valida caso o código informado na opção de buscar bloco por código não pertença a algum bloco.
+
+- **ListaDeBlocosVaziaException:** valida caso ao tentar listar os blocos por alguma opção que realize tal ação e não exista blocos cadastrados no sistema.
+
+- **PedreiraNaoListadaException:** valida caso a pedreira informada na opção de buscar bloco por pedreira não pertença a algum bloco.
+
+Essas validações foram as principais falhas identificadas em nosso sistema e foram criadas para previnir tais erros.

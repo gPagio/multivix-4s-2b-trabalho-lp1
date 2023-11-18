@@ -98,3 +98,17 @@ C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\refi
 C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\4s-1b-trabalho-lp1.pdb
 C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\4s-1b-trabalho-lp1.genruntimeconfig.cache
 C:\Users\gusta\OneDrive\Área de Trabalho\trabalho editado\obj\Debug\net7.0\ref\4s-1b-trabalho-lp1.dll
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.exe
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.deps.json
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.runtimeconfig.json
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.dll
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.AssemblyInfo.cs
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.dll
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\obj\Debug\net7.0\refint\4s-1b-trabalho-lp1.dll
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.pdb
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\obj\Debug\net7.0\4s-1b-trabalho-lp1.genruntimeconfig.cache
+C:\Users\guilh\Documents\GitHub\Faculdade\Trabalho\multivix-4s-2b-trabalho-lp1\obj\Debug\net7.0\ref\4s-1b-trabalho-lp1.dll
