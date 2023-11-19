@@ -16,18 +16,13 @@ Esse é um sistema de cadastro de cadastro de blocos, idealizado em cima de empr
 </p>
 
 # Como Executar o Programa
-
-
-Dentro da pasta do projeto, entre no diretório abaixo e execute o arquivo **`4s-1b-trabalho-lp1.exe`**:
+Entre no diretório raiz do projeto e execute o comando **`dotnet run`**:
 ``````
-multivix-4s-2b-trabalho-lp1\bin\Debug\net7.0\4s-1b-trabalho-lp1.exe
+multivix-4s-2b-trabalho-lp1\
 ``````
-
-> [!NOTE]
-> Tal método de execução é recomendado pois o comando **`dotnet run`** não apresentou um funcionamento estável.
-
-> [!IMPORTANT]
-> Este método de execução vale apenas para o sistema operacional Windows, pois para o correto funcionamento da função de escrever o bloco recém cadastrado no `.txt` a execução deve ser por meio do arquivo `.exe`. Procuramos uma solução para a situação mencionada, porém devido ao prazo para entrega do trabalho recomendamos a execução aqui neste arquivo documentada.
+``````
+dotnet run
+``````
 
 ## 1 - Cadastrar Bloco
 Essa opção do sistema recebe os dados do bloco a serem cadastrados para para posteriormente serem processados de acordo com a necessidade do usuario.
