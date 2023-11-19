@@ -17,9 +17,12 @@ Esse é um sistema de cadastro de cadastro de blocos, idealizado em cima de empr
 
 # Como Executar o Programa
 Entre no diretório raiz do projeto e execute o comando **`dotnet run`**:
+
+> Diretorio raiz:
 ``````
 multivix-4s-2b-trabalho-lp1\
 ``````
+> Comando para executar:
 ``````
 dotnet run
 ``````
