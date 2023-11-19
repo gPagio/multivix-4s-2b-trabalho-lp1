@@ -4,8 +4,8 @@ public class ExportaDadosDoBloco
 {
     public static void SalvarBlocoEmArquivoTxt (Bloco bloco)
     {
-        string diretorioDoExecutavel = Directory.GetCurrentDirectory();
-        string diretorioDoProjeto = Directory.GetParent(diretorioDoExecutavel)!.Parent!.Parent!.FullName;
+        string diretorioDoExecutavel = AppDomain.CurrentDomain.BaseDirectory;;
+        string diretorioDoProjeto = Directory.GetParent(diretorioDoExecutavel)!.Parent!.Parent!.Parent!.FullName;
        
         if (!Directory.Exists(Path.Combine(diretorioDoProjeto, "txt")))
         {
