@@ -16,13 +16,15 @@ Esse é um sistema de cadastro de cadastro de blocos, idealizado em cima de empr
 </p>
 
 # Como Executar o Programa
+> [!IMPORTANT]
+> O software foi testado e validado nas plataformas Windows e Linux. Caso execute em uma plataforma diferente das mencionadas bugs poderão aparecer!
 Entre no diretório raiz do projeto e execute o comando **`dotnet run`**:
 
-> Diretorio raiz:
+- Diretorio raiz:
 ``````
 multivix-4s-2b-trabalho-lp1\
 ``````
-> Comando para executar:
+- Comando para executar:
 ``````
 dotnet run
 ``````
